@@ -5,4 +5,4 @@ Usage:
 
 -git clone https://github.com/CCslayer1001/SecretWpBruter.git
 -cd SecretWpBuster
--python SecretWpBuster
+-python SecretWpBruter.py
