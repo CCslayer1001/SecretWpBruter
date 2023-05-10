@@ -3,6 +3,6 @@ A Wordpress Brute Force Tool / A tool you can Brute Force Admin Panels with read
 
 Usage:
 
-git clone https://github.com/CCslayer1001/SecretWpBruter.git
-cd SecretWpBuster
-python SecretWpBuster
+-git clone https://github.com/CCslayer1001/SecretWpBruter.git
+-cd SecretWpBuster
+-python SecretWpBuster
